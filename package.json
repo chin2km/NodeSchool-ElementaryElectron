@@ -1,0 +1,23 @@
+{
+  "name": "node-school-electron",
+  "version": "1.0.0",
+  "description": "This is me trying NodeSchool",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chin2km/NodeSchool-ElementaryElectron.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chin2km/NodeSchool-ElementaryElectron/issues"
+  },
+  "homepage": "https://github.com/chin2km/NodeSchool-ElementaryElectron#readme",
+  "dependencies": {
+    "cat-picture": "^5.1.2",
+    "lightning-image-poly": "0.0.10"
+  }
+}
